@@ -48,18 +48,27 @@ cd todo
 2. Install dependencies
 
 ```bash
+# Install todo dependencies
+
+npm install
+```
+
+```bash
+# Install todo-frontend dependencies
+
 cd todo-frontend
 
 npm install
 ```
 
 ```bash
+# Install todo-backend dependencies
 cd ../todo-backend
 
 npm install
 ```
 
-3. Setup environment
+1. Setup environment
 
 Copy `.env.example` to `.env` in the `todo-backend` folder:
 

@@ -63,12 +63,13 @@ npm install
 
 ```bash
 # Install todo-backend dependencies
+
 cd ../todo-backend
 
 npm install
 ```
 
-1. Setup environment
+3. Setup environment
 
 Copy `.env.example` to `.env` in the `todo-backend` folder:
 

@@ -1,12 +1,18 @@
 # Todo App - Fullstack
 
-A minimal fullstack Todo app built with NestJS (backend) and React (frontend) built to fulfill a Full Stack technical test. **Node.js version used:** v22.19.0.
+A fullstack Todo app built with NestJS (backend) and React (frontend). Node.js version used is v22.19.0.
 
-![Todo App Screenshot1](https://raw.githubusercontent.com/ratukf/todo-frontend/refs/heads/master/src/assets/ui.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ratukf/todo-frontend/refs/heads/master/src/assets/ui.png"/>
+</p>
 
-![Todo App Screenshot2](https://raw.githubusercontent.com/ratukf/todo-frontend/master/src/assets/ui2.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ratukf/todo-frontend/master/src/assets/ui2.png"/>
+</p>
 
-![Todo App Screenshot3](https://raw.githubusercontent.com/ratukf/todo-frontend/refs/heads/master/src/assets/ui3.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ratukf/todo-frontend/refs/heads/master/src/assets/ui3.png"/>
+</p>
 
 ## Tech Stack
 
